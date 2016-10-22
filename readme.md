@@ -6,12 +6,12 @@
 为了绕过VAC 限制，只能遵从固定的技能和物品摆放快捷按键设置。 
 快捷键参考如下： 
 技能必须是Quickcast
-![image_1avmarut2149f10v04hhmqm1hvl9.png-70.4kB][1]
+![image1](http://static.zybuluo.com/plok6325/2966k2yjtwzy2ca5ioq4uwfq/image_1avmarut2149f10v04hhmqm1hvl9.png)
 物品2，3，4，5位 必须是Quickcast, 物品0 号和1号位默认放的是飞鞋和跳刀 在一键连招中不使用这两个位置的物品，所以不必设置。
 而婚戒在每次大招之前都要吃，婚戒必须放在N键上。
-![image_1avmat1t78lkvar1i561fef19kim.png-9kB][2]
+![image2](http://static.zybuluo.com/plok6325/1sfyzzygcdr8t6jbkf6eatgi/image_1avmat1t78lkvar1i561fef19kim.png)
 推荐的物品顺序为
-![image_1avmbetfb1cf8lha1ubb1j0r185513.png-77.1kB][3]
+![image3](http://static.zybuluo.com/plok6325/gmsi389kxpd9lvwgifjmbie6/image_1avmbetfb1cf8lha1ubb1j0r185513.png)
 有AHK编程经验的人可以在.ahk文件中改变按键设置， 并运行.ahk 文件。
 普通使用者按照上面的条件设置完后直接运行 exe文件。　
 
@@ -25,8 +25,3 @@
 
 
 
-
-
-  [1]: http://static.zybuluo.com/plok6325/2966k2yjtwzy2ca5ioq4uwfq/image_1avmarut2149f10v04hhmqm1hvl9.png
-  [2]: http://static.zybuluo.com/plok6325/1sfyzzygcdr8t6jbkf6eatgi/image_1avmat1t78lkvar1i561fef19kim.png
-  [3]: http://static.zybuluo.com/plok6325/gmsi389kxpd9lvwgifjmbie6/image_1avmbetfb1cf8lha1ubb1j0r185513.png
