@@ -2,7 +2,7 @@
 
 #IfWinActive Dota
 {
-msgbox ("tinker! " )
+msgbox tinker! 
 
 $Enter::
 Suspend
